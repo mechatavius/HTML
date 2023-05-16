@@ -1,0 +1,18 @@
+#city{
+    color: rgba(0, 0, 0, .5);
+}
+#lip{
+    color: blue;
+}
+#lip1{
+    caret-color: aquamarine;
+}
+nav{
+    color: brown;
+    margin:2px ;
+    padding: 2px;
+   
+}
+div{
+    text-align: center;
+}
