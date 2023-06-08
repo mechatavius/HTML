@@ -1,6 +1,6 @@
-body { background-color: green;}
+body { background-color: aqua;}
 
-p { color: brown;}
+p { color: black;}
 
 #mijncv{ 
     background-color: blue;
@@ -10,12 +10,40 @@ p { color: brown;}
 
 .taal {
      font-size: 24px; 
+     
     }
 
-h2,h3 { color: green;}
+h3 { color: black;}
 
-h1 { text-align: center;}
+h1 { 
+    
+    text-align: center;
+
+}
 
 .class { 
     text-align: center; 
 }
+
+.mijnKlasse { font-size: 24px; }
+
+
+* { margin: 0; padding: 0; }
+
+
+#mijnID { background-color: red; }
+
+
+div  { text-align: center; }
+
+.container {
+    display: grid;
+  }
+  
+
+  .item {
+    grid-column-start: 1;
+    grid-column-end: 3;
+  }
+
+  
